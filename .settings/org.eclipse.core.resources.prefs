@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//MyDjango/MyDjango/settings.py=utf-8
+encoding//MyDjango/MyDjango/urls.py=utf-8
+encoding//MyDjango/learn/migrations/0001_initial.py=utf-8
+encoding//MyDjango/learn/migrations/0002_cmccprojectchip.py=utf-8
+encoding//MyDjango/learn/migrations/0003_cmccproject.py=utf-8
+encoding//MyDjango/learn/migrations/0004_cmccprojectroles.py=utf-8
+encoding//MyDjango/learn/models.py=utf-8
+encoding//MyDjango/learn/views.py=utf-8
+encoding//MyDjango/login/views.py=utf-8
+encoding//MyDjango/polls/views.py=utf-8
